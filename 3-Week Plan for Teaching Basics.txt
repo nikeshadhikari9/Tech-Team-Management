@@ -1,0 +1,66 @@
+3-Week Plan for Teaching Basics
+
+---
+
+Week 1: Introduction to Frontend Development
+
+Day 1-2: HTML Basics
+  - Structure of a webpage: <html>, <head>, <body>
+  - Elements: headings, paragraphs, images, links, lists, forms
+  - Semantic HTML: <header>, <footer>, <section>, <article>
+  - Mini Task: Build a simple personal webpage with bio, image, and links.
+
+Day 3-4: CSS Basics
+  - CSS Syntax: Selectors, Properties, Values
+  - Styling text, background, borders, margins, padding
+  - Positioning: position, flexbox, grid
+  - Mini Task: Style the webpage with CSS (Flexbox layout).
+
+Day 5-7: JavaScript Basics
+  - Variables, Functions, Loops, Conditions, Arrays
+  - DOM Manipulation: changing content, styles, adding/removing elements
+  - Event Handling: buttons, forms, clicks
+  - Mini Task: Create a To-Do List app (add/remove tasks).
+
+---
+
+Week 2: Deeper JavaScript & Introduction to Backend
+
+Day 1-2: Intermediate JavaScript
+  - JavaScript Functions and Objects: functions, arguments, return values
+  - Working with Objects and Arrays
+  - ES6+ Features: Arrow functions, template literals, destructuring
+  - Mini Task: Refactor To-Do List to use objects/arrays.
+
+Day 3-4: Introduction to Node.js & Express.js
+  - What is Node.js: Introduction to backend (JavaScript on the server).
+  - Create a basic Express.js server: Install and set up Express, basic routes (GET, POST).
+  - Mini Task: Create a simple API with GET and POST routes.
+
+Day 5-7: Introduction to APIs & Connecting Frontend to Backend
+  - What is an API? Frontend and backend communicate via APIs (JSON format).
+  - Make API calls using JavaScript (fetch() or Axios).
+  - Mini Task: Connect To-Do List app to Express API to store tasks.
+
+---
+
+Week 3: Full-Stack Basics – Combining Frontend and Backend
+
+Day 1-2: Introduction to React.js
+  - What is React.js? Components, JSX, props, state.
+  - Build Components: Create a component-based app.
+  - Mini Task: Build a simple React app (task list or form submission page).
+
+Day 3-4: State & Event Handling in React
+  - React State and Props: Passing data between components, using state.
+  - Mini Task: Add interactivity to React To-Do List with state management.
+
+Day 5-7: Full-Stack Integration (Frontend + Backend)
+  - Connecting React with Express: Set up React app to make API requests to Express server (GET/POST).
+  - Mini Task: Create a full-stack task manager app where tasks are stored on the backend (Express server + MongoDB or in-memory storage).
+
+---
+
+Final Task (After 3 Weeks): Build a Full-Stack Application Together
+  - Build a simple full-stack app (e.g., task manager or note-taking app).
+  - Each member contributes to frontend, backend, or UI/UX design.
